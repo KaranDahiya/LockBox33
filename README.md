@@ -8,3 +8,8 @@ A metal lockbox that triggers an alarm when sensing touch prior to entering the 
 **Technologies**
 - Raspberry Pi
 - C
+
+**Video of Development Process**
+
+https://user-images.githubusercontent.com/41240707/127675168-e4dee7de-71b0-4a40-8bdf-3e05cead1912.mp4
+
